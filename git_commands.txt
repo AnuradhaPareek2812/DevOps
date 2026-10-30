@@ -1,0 +1,6 @@
+git init 
+git status
+git add " file_name " for all files to be staged git add .
+git rm --cache "File_name"
+git commit -m "your message"
+git restore "File_name"
