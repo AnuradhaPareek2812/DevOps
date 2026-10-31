@@ -4,3 +4,10 @@ git add " file_name " for all files to be staged git add .
 git rm --cache "File_name"
 git commit -m "your message"
 git restore "File_name"
+git push add origin "URL"  from local to github repo
+git remote set-url origin "URL"
+git clone "URL"
+fork through github dashboard
+git remote -v
+clear
+
