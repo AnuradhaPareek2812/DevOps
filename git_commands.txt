@@ -10,4 +10,5 @@ git clone "URL"
 fork through github dashboard
 git remote -v
 clear
+this is some new changes 
 
