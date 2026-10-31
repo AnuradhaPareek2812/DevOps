@@ -10,5 +10,7 @@ git clone "URL"
 fork through github dashboard
 git remote -v
 clear
+git pull origin master ---> changes comes from github to local machine
+git push origin master ---> changes comes from local machine to github
 this is some new changes 
 
