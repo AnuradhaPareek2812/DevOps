@@ -14,3 +14,20 @@ git pull origin master ---> changes comes from github to local machine
 git push origin master ---> changes comes from local machine to github
 this is some new changes 
 
+BRANCHES
+
+local--> master branch 
+github-->main branch 
+
+git branch
+
+For making new branch
+1.) git branch "Branch_name"
+2.) git checkout -B "branch_name"
+git switch "branch_name"
+git checkout "branch_name"
+
+Feature branch 
+git log
+
+PULL REQUEST
